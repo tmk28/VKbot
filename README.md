@@ -7,6 +7,7 @@
 
 Файловая структура проекта:
 - .idea - создана PyCharm
+- .git - создана GitHub
 - __pycache__ - создана PyCharm
 - venv - создана PyCharm
 - VKbot-main - архив версий(создан GitHub)
